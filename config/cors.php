@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://travel-ease-it.netlify.app', 'https://travel-app-fe-eight.vercel.app'],
+    'allowed_origins' => ['https://travel-ease-it.netlify.app', 'https://travel-app-fe-eight.vercel.app', 'http://localhost:3000'],
 
     'allowed_origins_patterns' => [],
 
